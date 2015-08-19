@@ -22,7 +22,9 @@ Having "tribal knowledge" regarding not only the work getting done throughout ou
 
 Today's modern group chat tools provide native 3rd-party integrations with many of the tools and services popular to most in the tech community.
 
-In addition to the valuable context that is provided in line with the conversations, some teams have begun to implement what has been coined as ChatOps. 
+In addition to this context that is dropped in line with the conversations, some teams have begun to implement what has been coined as ChatOps.
+
+By integrating a chatbot in to these group messaging tools, teams are now beginning to take action directly from within the conversation as though it's a command line interface (CLI). By treating the group messaging tool ast though it's a CLI, an engineer can perform their tasks, communicate to their team what has been done, teach others how it was accomplished, and create context about actions taken, right in line with the conversations that are related to those actions.
 
 ## Actionable Tips For Developers
 
