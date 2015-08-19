@@ -1,8 +1,8 @@
 # Getting Work Done In a Chat Room
 
-There's a growing trend within tech companies lately.
+Over the last year or two, there's been a big shift in the way teams communicate, collaborate, and get things done. That change has accelerated as new tools and processes have matured and gained traction beyond early adopters and tech-savvy millennials with a pulse on what's trending on Product Hunt. 
 
-Regardless of their size and dispersement of workers, teams are moving their conversations away from traditional channels such as email and instant messaging and in to more collaborative environments like group chat.
+Regardless of the size and dispersement of workers you may be noticing a growing trend within companies lately. Teams are moving their conversations away from traditional channels such as email and instant messaging and in to more collaborative environments like group chat.
 
 The idea is simple really. Collaborating as a group to create conversations, build context, and share information about whats going on across technical and non-technical teams alike builds something that many teams overlook. 
 
@@ -24,7 +24,9 @@ Today's modern group chat tools provide native 3rd-party integrations with many 
 
 In addition to this context that is dropped in line with the conversations, some teams have begun to implement what has been coined as ChatOps.
 
-By integrating a chatbot in to these group messaging tools, teams are now beginning to take action directly from within the conversation as though it's a command line interface (CLI). By treating the group messaging tool ast though it's a CLI, an engineer can perform their tasks, communicate to their team what has been done, teach others how it was accomplished, and create context about actions taken, right in line with the conversations that are related to those actions.
+By integrating a chatbot in to these group messaging tools, teams are now beginning to take action directly from within the conversation as though it's a shared command line interface (CLI). 
+
+When treating the group messaging tool as though it's a CLI, an engineer can perform their tasks, communicate to their team what has been done, teach others how it was accomplished, and create context about actions taken, right in line with the conversations that are related to those actions.
 
 ## Actionable Tips For Developers
 
