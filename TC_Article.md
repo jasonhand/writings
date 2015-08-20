@@ -8,7 +8,7 @@ The idea is simple really. Collaborating as a group to create conversations, bui
 
 Modern software companies have begun to adopt DevOps best practices in order to get their product to market sooner. The concepts and processes brought forth through a DevOps approach aims to knock down perceived silos between teams. Teams that traditionally operated independantely from one another, only communicating and collaborating when absolutely necessary.
 
-The old-way model, known as "waterfall" meant software development cycles took months and releasing new versions of products was very slow. This new-way model means that due to highly effecient and collaborative teams, new versions of software can be released to the public in a near "continuous" manner. This is known as continuous delivery and has forever changed the way software is being provided.
+The old-way, known as a "waterfall model" meant software development cycles might take months making software releases a long and drawn out process. This new "DevOps model" means that due to highly effecient, collaborative, and empathetic teams, new versions of software can be released to the public in a near "continuous" manner. This is known as continuous delivery and has forever changed the way software is being provided to the world.
 
 Anyone who has been a part of this shift in focus will tell you that DevOps isn't purely about tools and processes. While those do play an important role, it's more about people and creating empathy within teams.
 
