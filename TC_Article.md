@@ -14,7 +14,7 @@ Anyone who has been a part of this shift in focus will tell you that DevOps isn'
 
 One way to create that empathy is to openly share everything that is going on. When conversations are no longer siloed and everyone can participate and collaborate over a subject or problem, a deeper understanding is had. An understanding about how things "get done" along with the challenges each specific teams faces.
 
-Synchronous forms of group communication help to shorten feedback loops and provide situational awareness to teams traditionally cut off from one another. By creating an interface for workers from all business units to learn and share what's going on. In many cases, teams are even automating the inclusion of context such as metrics, alerts, and documents right in to the body of the conversations already taking place.
+Synchronous methods of group communication help to shorten feedback loops and provide awareness to teams traditionally cut off from one another. By creating an interface for workers from all teams to learn and share what's going on, everyone is constantly pairing with each other, creating tribal knowledge. 
 
 Having tribal knowledge regarding not only the work getting done throughout our hectic day but also the conversations that relate to and surround our work is a huge boost in effeciency for teams. 
 
