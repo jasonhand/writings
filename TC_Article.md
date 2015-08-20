@@ -4,9 +4,10 @@ Over the last year or two, there's been a big shift in the way teams communicate
 
 Regardless of the size and dispersement of workers, teams are moving their conversations away from traditional channels such as email and instant messaging and in to more collaborative and synchronous environments like group chat.
 
-The idea is simple really. Collaborating as a group to create conversations, build context, and share information about whats going on across technical and non-technical teams alike builds something that many teams overlook. Empathy.
+The idea is simple really. Collaborating as a group to create conversations, build context, and share information about what's going on across technical and non-technical teams alike builds something very important that many teams overlook. Empathy.
 
-Modern software companies have begun to adopt DevOps best practices in order to get their product to market sooner. The concepts and processes brought forth through a DevOps approace aim to obtain valuable feedback from users, make the necessary changes and improvements, and "release" their new-and-improved version of the product in as little time as possible.
+Modern software companies have begun to adopt DevOps best practices in order to get their product to market sooner. The concepts and processes brought forth through a DevOps approach aims to knock down perceived silos between teams. Teams that traditionally operated independantely from one another, only communicating and collaborating when absolutely necessary.
+
 
 Anyone who has been a part of this shift in focus will tell you that DevOps isn't purely about tools and processes. While those do play an important role, it's more about people and creating empathy within teams.
 
